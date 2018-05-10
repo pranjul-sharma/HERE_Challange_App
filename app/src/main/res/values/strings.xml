@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KtC</string>
+    <!-- here API app id, license key and app code-->
+    <string name="app_id" translatable="false">DfiXf4lOYbEeGCgZLzBh</string>
+    <string name="app_code" translatable="false">My7JVEMMnIfrxFKS-2aQIw</string>
+    <string name="app_license_key" translatable="false">KJf1lYCUbF1bYw9gab0B1S3CJIrbsl2W4ltgzjLKBUry/h8AzM6BX1p2HoX7TUaKQlXXL25gOYeFGUJHRC2lLff6CnCS9a4zCIdPy5WiZrrMD43xxiFDrtptJFO7OpDOg66uIWTDB35O7CMyiSwPgbalQtD2IJs8W5Gn6rPnui+5UHbaFzID5h23z5jxIpfWpTIkxY1xBLBNhMZAkWG+cljmzjkMaE0zATNWO6bU5u+m3xYVPwxjfDj8r8uYhYzelHZw58w3ma+8Y786W4v98kmE30XiC0GHJ2ZEJf/yWCF+zCblup6FAJHevwu9XJuNiMAK5XpAnoUIYAVFMRlxmP3RYQC0FTXxoZwbqy6aD4PjKvrofeHgnZp0WgIGGchrZMtKVazGfuW6u1j+AUSEJYhu+momr76U5AkptarKpu2yL7GOFNf69xZYRz1ZCgfNPvsRER7U/DWolirvoBG97D0VAGBrnSNcJws1uDDpKyK83fFTauIQNkttiYiimTXwW7awF/E9b+AjLrEoUUdF2DYGbL0l1CJBEJBqGMvITmn/ek3ZuWhJN1110nZoPGAu8sEt0Ze7uX9DLCs8MbM5qm2Eet+/7mVd8sJT+prRXCi+R6NoQF4o/KvXVjemt1SBSSp4LhGRfKlhCeZxmLUAomrT8Y5nI10/9SbaifEadMg=</string>
+</resources>
